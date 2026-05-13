@@ -1,2 +1,2 @@
-# blog-com-crud
+# blog-com-crud (em andamento) 
 um blog com crud
